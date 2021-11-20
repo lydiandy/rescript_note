@@ -9,7 +9,7 @@
 有以下几个原因：
 
 - 还没有实际学习过一门fp语言，一直都是听说，没正经学过，试试看
-- ocmal之前有留意过，ocmal和rescrip基本是相通的
+- ocmal之前有留意过，ocmal和rescript基本是相通的
 - 核心开发者是华裔，都是高手，都在facebook
 - 一直都挺喜欢react的，rescript可以使用react
 - 看过rescript生成js的性能，生成js的可读性非常好，印象深刻
