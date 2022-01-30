@@ -69,7 +69,7 @@
 
 * [编译器源代码](content/compiler_source.md)
 
-* [生成js代码及优化](constnet/gen_js.md)
+* [生成js代码及优化](content/gen_js.md)
 
 	---
 
