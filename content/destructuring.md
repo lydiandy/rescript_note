@@ -10,7 +10,7 @@ let (x, _, _) = coordinates
 Js.log(x) // 10
 ```
 
-### 数组和列表
+### 数组
 
 ```ocaml
 let myArray = [1, 2, 3]
